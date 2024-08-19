@@ -1,4 +1,4 @@
-# Negotiation Skills Feedback System
+# Feedback System for Salary Negotiation Skills
 
 ## 1. Overview
 
